@@ -75,7 +75,7 @@ We haven't used it yet. We have plans to look at optionally integrating a messag
 
 We are old dudes working with SQL since the 1990s. It is what we know. Other backends may be cool and if you want to get another one in, code it up.  Show us it is better than what we have now.
 
-## Go? I like python/C/COBOL/perl/php5/node.js
+## Why Go? I like python/C/COBOL/perl/php5/node.js
 
 Opposite answer to the above... When this project started we didn't know Go. We used this project to teach ourselves Go. Most of us are old C hacks, python people, Javascript heads, or php dudes.. We have grown to like Go, it enabled us to make very rapid progress with this project.  Go with it.
 
